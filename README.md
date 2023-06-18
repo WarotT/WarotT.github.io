@@ -1,3 +1,3 @@
 # WarotT.github.io
  
-Hello World !!
+Hello World !! This is NECS1305 first lab
